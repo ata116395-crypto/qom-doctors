@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://ata116395-crypto.github.io/qom-doctors/sitemap.xml
